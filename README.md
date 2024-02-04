@@ -2,6 +2,7 @@
 <hr>
 <br>
 Visuals Used for this dashboard -
+<br>
 1. Card Visual
 2. Clustered Column Chart
 3. Donut Chart
